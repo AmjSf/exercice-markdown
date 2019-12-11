@@ -19,9 +19,9 @@ le markdown permet d'afficher du html plus facilement</br>
 1. Titre 1
 2. Titre 2
 3. Titre 3
-    1. Titre 3.1
-    2. Titre 3.2
-    3. Titre 3.3
+    * Titre 3.1
+    * Titre 3.2
+    * Titre 3.3
 ## Exemple de coloration syntaxique de code html
 ```html
 <body>
