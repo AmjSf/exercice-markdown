@@ -6,12 +6,12 @@ Contrairement au langage HTML reposant sur l'usage de balises, le Markdown a pou
 
 Le Markdown est utilisé dans plusieurs applications, soit sous la forme d'un éditeur de texte compatible, soit directement sur Internet. Certains services de blogs ou de réseaux sociaux souhaitant offrir une option de mise en forme des publications un peu plus riche reposent sur ce langage, c'est le cas par exemple de Google+.
 ## A quoi sert le Markdown ?
-- Pouvoir créer facilement des éléments 
+- Pouvoir créer facilement des éléments
 - Ajouter simplement une mise en forme de text
 - Avoir un mise en page rapidement
 ## Liens utiles
 1. [Les liens](#)
-2. [élément de liste 2](#1Exempledelien)
+2. [élément de liste 2](#1-Exemple-de-lien)
 3. [élément de liste 3]()
 ## 1 Exemple de lien
 [je suis un lien vers le repository](https://github.com/AmjSf/exercice-markdown/tree/master)
