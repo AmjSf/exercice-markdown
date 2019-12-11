@@ -65,7 +65,15 @@ Pour donner une coloration de la syntaxe de code on doit entourer le code comme 
         <h1>Mon Super Site !<h1>
     </div>
 </body>
+`` `
 ```
-```
+Ce qui donne :
 
+```html
+<body>
+    <div>
+        <h1>Mon Super Site !<h1>
+    </div>
+</body>
+```
 
