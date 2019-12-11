@@ -23,4 +23,12 @@ Even things like this can be done thanks to the great Markdown
 ## What else ?  
 ![c'était sensé être une image](http://ekladata.com/6H_WwXgxF_wj0TvkgMOTQcFMkXA.jpg "Sweet coffee")
 
-<p>Some Markdown text with <span style="color:blue">some <em>blue</em> text</span>.</p>
+```html
+<p style='color:green; background-color:yellow; text-align:center'>
+Paragraphe <br>
+vert,<br>
+attention aux 
+sauts de lignes, 
+il faut ajouter <br>
+</p>
+```
