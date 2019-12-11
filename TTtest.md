@@ -1,6 +1,6 @@
 # What's a Markdown
 
-![alt text](https://imgur.com/5UlRag5)
+![c'était sensé être une image](/CeciEstUneImage.jpg "Une jolie image")
 
 ## Introduction
 
