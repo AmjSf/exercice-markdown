@@ -5,7 +5,7 @@ Des images peuvent être ajoutées de la avec la syntaxe ci-dessous
 ![alt text](adresse-de-l'image)
 ```
 Exemple d'image :
-![alt text](https://fr.wikipedia.org/wiki/Leet_speak#/media/Fichier:31337_h4x0r.jpg)
+![alt text](https://www.ipnoze.com/wordpress/wp-content/uploads/2015/10/chien-drole.jpg)
 ## 2 2 Les images animées
 Les images animées sont également disponible. La syntaxe est la même que pour une image simple
  
