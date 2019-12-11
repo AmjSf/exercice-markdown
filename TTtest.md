@@ -1,5 +1,5 @@
 
-# What's a Markdown
+<h1 align="center">What's a Markdown</h1>
 
 ![c'était sensé être une image](/CeciEstUneImage.jpg "Une jolie image")
 
@@ -14,7 +14,7 @@ Markdown allow you to :
 - Show your most magnificient pitcure
 - ...
 
-Even things like this can be done thanks to the great Markdown
+<p align="center">Even things like this can be done thanks to the great Markdown</p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" alt="It's Catgic"/>
@@ -23,6 +23,7 @@ Even things like this can be done thanks to the great Markdown
 ## What else ?  
 ![c'était sensé être une image](http://ekladata.com/6H_WwXgxF_wj0TvkgMOTQcFMkXA.jpg "Sweet coffee")
 
+<<<<<<< HEAD
 ```html
 <p style='color:green; background-color:yellow; text-align:center'>
 Paragraphe <br>
