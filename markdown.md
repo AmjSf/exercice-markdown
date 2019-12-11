@@ -5,10 +5,7 @@ Test Hugo est un mec qui taff dur <span style="color:blue">some *blue* text</spa
 #### jjf
 * jdjdj
 ** jeje
-```javascript
-function fancyAlert(arg) {
-  if(arg) {
-    $.facebox({div:'#foo'})
-  }
-}
+```python
+s = "Python syntax highlighting"
+print s
 ```
