@@ -23,3 +23,5 @@ Even things like this can be done thanks to the great <Mk>Markdown</Mk>
 
 ## What else ?  
 ![c'était sensé être une image](http://ekladata.com/6H_WwXgxF_wj0TvkgMOTQcFMkXA.jpg "Sweet coffee")
+
+Some Markdown text with <span style="color:blue">some *blue* text</span>.
