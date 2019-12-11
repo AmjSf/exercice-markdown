@@ -43,3 +43,13 @@ Why would you use it?
 <p align="center">
   <img width="460" height="300" src="https://files.digitaltrends.com/images/tenor.gif">
 </p>
+
+```md
+```html
+<body>
+    <div>
+        <h1>Mon Super Site !<h1>
+    </div>
+</body>
+`` `
+```
