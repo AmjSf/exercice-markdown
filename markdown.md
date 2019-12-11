@@ -6,4 +6,3 @@ You can use Markdown most places around GitHub:
 * Comments in Issues and Pull Requests
 * Files with the .md or .markdown extension
 
-![Image of Yaktocat](/imageoeuf.jpg)
