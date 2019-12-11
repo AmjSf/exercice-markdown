@@ -11,9 +11,9 @@ Mostly, Markdown is just regular text with a few non-alphabetic characters throw
 ### Mayble it's good
  maybe not
 1. List
-* croute
-* fuu 
 2. Chat
-* fufu
-3. Cococa
-** fufufu
+3. fufufu
+
+* Bonjour
+* Tu es bete
+* Je crois
