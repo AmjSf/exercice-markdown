@@ -4,7 +4,7 @@
 
 ## Introduction
 
-As you can see on <https://daringfireball.net/projects/markdown/>, color:red Markdown is a way to style text on the web. 
+color:red As you can see on <https://daringfireball.net/projects/markdown/>, Markdown is a way to style text on the web. 
 
 Markdown allow you to :
 
