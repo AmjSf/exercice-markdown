@@ -1,6 +1,6 @@
 # What's a Markdown
 
-![Titre](C:\Users\timot\Pictures\MarkdownPic.png)
+![C'était sensé être une image](C:\Users\timot\Pictures\MarkdownPic.png)
 
 ## Introduction
 
