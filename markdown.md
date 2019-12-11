@@ -26,9 +26,16 @@ Why would you use it?
 
 #### But also
 
-* Formater la présentation du document
-* Synthaxe plus compréhensible
-* Why not?  
+1. Formater la présentation du document
+2. Synthaxe plus compréhensible
+3. Why not?  
 
 ### You can learn it on [GitHub](https://guides.github.com/features/mastering-markdown/)
-![GitHub Logo](https://camo.githubusercontent.com/205e7ca38df8d553b249f79606c198769346d810/687474703a2f2f6b69726b7374726f6265636b2e6769746875622e696f2f7768617469736d61726b646f776e2e636f6d2f696d672f6d61726b646f776e2e706e67)
+
+*Some code* 
+
+<script type="text/javascript">
+    alert("Hello!");
+</script>
+
+![GitHub Logo](https://files.digitaltrends.com/images/tenor.gif)
