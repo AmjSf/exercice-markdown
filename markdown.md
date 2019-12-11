@@ -1,6 +1,5 @@
-What's a Markdown
-test
-```html
-<br>ok
-<span style="color:red">blabla</span> je suis hugo
-```
+Le markdown</br>
+le markdown permet d'afficher du html plus facilement</br>
+exemple de liste à puces</br>
+-numero 1</br>
+-numero 2
