@@ -20,4 +20,4 @@ Even things like this can be done thanks to the great Markdown
 </p>
 
 ## What else ?  
-![c'était sensé être une image] (http://ekladata.com/6H_WwXgxF_wj0TvkgMOTQcFMkXA.jpg "Sweet coffee"
+![c'était sensé être une image] (http://ekladata.com/6H_WwXgxF_wj0TvkgMOTQcFMkXA.jpg "Sweet coffee")
