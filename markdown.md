@@ -1,4 +1,4 @@
-MarkDown 
+<p align="center"> MarkDown </p> 
 ==================
 ![GitHub Logo](https://camo.githubusercontent.com/205e7ca38df8d553b249f79606c198769346d810/687474703a2f2f6b69726b7374726f6265636b2e6769746875622e696f2f7768617469736d61726b646f776e2e636f6d2f696d672f6d61726b646f776e2e706e67)
 
@@ -18,11 +18,11 @@ Why would you use it?
 ------------------
 
 * Faster
-   * better
+   * Better
 * Easier
-   * stronger
+   * Stronger
 * Efficient 
-   * or not
+   * Or not
 
 #### But also
 
@@ -32,7 +32,7 @@ Why would you use it?
 
 ### You can learn it on [GitHub](https://guides.github.com/features/mastering-markdown/)
 
-*Some code* 
+**Some code** 
 
 <script type="text/javascript">
     alert("Hello!");
