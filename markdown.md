@@ -12,14 +12,14 @@ Le Markdown est utilisé dans plusieurs applications, soit sous la forme d'un é
 ## Les diiférents éléments
 1. [Les liens](#1-Les-liens)
 2. [Les images](#2-Les-images)
-    * [Les images animées](#2.2-Les-images-animées)
+    * [Les images animées](#2-2-Les-images-animées)
 3. [Les listes](#3-Les-listes)
 4. [Syntaxe de code](#4-Syntaxe-de-code)
 ## 1 Les liens
 [je suis un lien vers le repository](https://github.com/AmjSf/exercice-markdown/tree/master)
 ## 2 Les images
 ![alt text](https://www.ipnoze.com/wordpress/wp-content/uploads/2015/10/chien-drole.jpg)
-## 2.2 Les images animées
+## 2 2 Les images animées
 ![alt text](https://i.pinimg.com/originals/40/3a/56/403a56ca7df35d58879641a935c01a51.gif)
 ## 3 Les listes
 1. Titre 1
