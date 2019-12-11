@@ -41,5 +41,5 @@ Why would you use it?
 ```
 
 <p align="center">
-  <img width="460" height="300" src="https://files.digitaltrends.com/images/tenor.gif/460/300">
+  <img width="460" height="300" src="https://files.digitaltrends.com/images/tenor.gif">
 </p>
