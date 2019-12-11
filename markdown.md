@@ -32,7 +32,7 @@ Why would you use it?
 
 ### You can learn it on [GitHub](https://guides.github.com/features/mastering-markdown/)
 
-<ins>**Some code**</ins>
+<ins>*Some code:*</ins>
 
 ``` javascript
 <script type="text/javascript">
