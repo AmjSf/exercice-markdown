@@ -44,6 +44,6 @@ Why would you use it?
   <img width="460" height="300" src="https://files.digitaltrends.com/images/tenor.gif">
 </p>
 
-```md
+
 [je suis un lien vers le repository](https://github.com/AmjSf/exercice-markdown/tree/master)
-```
+
