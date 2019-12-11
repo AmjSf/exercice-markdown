@@ -40,4 +40,4 @@ Why would you use it?
 </script>
 ```
 
-align="center" ![GitHub Logo](https://files.digitaltrends.com/images/tenor.gif)
+<h6 align="center">![GitHub Logo](https://files.digitaltrends.com/images/tenor.gif)</h6>
