@@ -1,6 +1,6 @@
 # What's a Markdown
 
-![C'était sensé être une image]("https://imgur.com/5UlRag5")
+![C'était sensé être une image](https://imgur.com/5UlRag5)
 
 ## Introduction
 
