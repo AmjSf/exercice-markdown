@@ -1,9 +1,3 @@
-<<<<<<< HEAD
-* What's MarkDown ?
-# vvavava7
-## chacha cha 
-##### prout
-=======
 # Le Markdown
 ## Qu'est ce que le markdown ?
 Le Markdown est un langage de balisage inventé par John Gruber en 2004 permettant de formater du texte brut de manière simple pour un rendu en HTML ou dans un autre format.</br>
