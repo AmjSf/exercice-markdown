@@ -16,16 +16,39 @@ Le Markdown est utilisé dans plusieurs applications, soit sous la forme d'un é
 3. [Les listes](#3-Les-listes)
 4. [Syntaxe de code](#4-Syntaxe-de-code)
 ## 1 Les liens
-Des lien peuvent être ajouter de la manière suivane
+Des lien peuvent être ajoutés de la manière suivane
 ```md
 [Le nom du lien](lien)
 ```
+Exemple de lien vers le répertoir principale
 [je suis un lien vers le repository](https://github.com/AmjSf/exercice-markdown/tree/master)
 ## 2 Les images
+
+Des images peuvent être ajoutées de la manière suivante
+```md
+![alt text](adresse-de-l'image)
+```
+Exemple d'image :
 ![alt text](https://www.ipnoze.com/wordpress/wp-content/uploads/2015/10/chien-drole.jpg)
 ## 2 2 Les images animées
+Les images animées sont également disponible. La syntaxe est la même que pour une image simple
+
+Exemple d'image animée :
 ![alt text](https://i.pinimg.com/originals/40/3a/56/403a56ca7df35d58879641a935c01a51.gif)
 ## 3 Les listes
+
+Pour créer une liste (numérotée ou à puces) il faut procèder comme suit :
+```md
+1. Titre 1
+2. Titre 2
+3. Titre 3
+    * Titre 3.1
+    * Titre 3.2
+    * Titre 3.3
+```
+
+ce qui donne :
+
 1. Titre 1
 2. Titre 2
 3. Titre 3
@@ -33,12 +56,16 @@ Des lien peuvent être ajouter de la manière suivane
     * Titre 3.2
     * Titre 3.3
 ## 4 Syntaxe de code
+
+Pour donner une coloration de la syntaxe de code on doit entourer le code comme suit en précisant le language utilisé :
+```md
 ```html
 <body>
     <div>
         <h1>Mon Super Site !<h1>
     </div>
 </body>
+```
 ```
 
 
