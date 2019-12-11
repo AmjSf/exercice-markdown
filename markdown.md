@@ -5,4 +5,5 @@ You can use Markdown most places around GitHub:
 * Gists
 * Comments in Issues and Pull Requests
 * Files with the .md or .markdown extension
-!(https://imgur.com/a/e0dy4vr)
+
+![Image of Yaktocat](https://imgur.com/a/e0dy4vr)
