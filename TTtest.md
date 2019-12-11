@@ -24,11 +24,11 @@ Markdown allow you to :
 ![c'était sensé être une image](http://ekladata.com/6H_WwXgxF_wj0TvkgMOTQcFMkXA.jpg "Sweet coffee")
 
 
-<p style='color:green; background-color:yellow; text-align:center'>
-Paragraphe <br>
-vert,<br>
-attention aux 
-sauts de lignes, 
-il faut ajouter <br>
-</p>
-
+On peut aussi faire ce genre de liste
+   
+1. Tedaldi
+    * Timothy
+    * Amaury
+    * Rudy
+2.  Noel
+    * Marilyne
