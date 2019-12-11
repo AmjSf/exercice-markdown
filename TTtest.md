@@ -1,6 +1,6 @@
 # What's a Markdown
 
-![C'était sensé être une image](C:\Users\timot\Pictures\MarkdownPic.png)
+![C'était sensé être une image](CeciEstUneImage.png)
 
 ## Introduction
 
