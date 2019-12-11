@@ -9,24 +9,26 @@ Le Markdown est utilisé dans plusieurs applications, soit sous la forme d'un é
 - Pouvoir créer facilement des éléments
 - Ajouter simplement une mise en forme de text
 - Avoir un mise en page rapidement
-## Liens utiles
-1. [Les liens](#)
-2. [élément de liste 2](#1-Exemple-de-lien)
-3. [élément de liste 3]()
-## 1 Exemple de lien
+## Les diiférents éléments
+1. [Les liens](#1-Les-liens)
+2. [Les images](#2-Les-images)
+    * [Les images animées](#2.2-Les-images-annimées)
+3. [Les listes](#3-les-listes)
+4. [Syntaxe de code](#4-Syntaxe-de-code)
+## 1 les liens
 [je suis un lien vers le repository](https://github.com/AmjSf/exercice-markdown/tree/master)
-## Exemple d'une image
+## 2 les images
 ![alt text](https://www.ipnoze.com/wordpress/wp-content/uploads/2015/10/chien-drole.jpg)
-## Exemple d'une image animée
+## 2.2 les images annimées
 ![alt text](https://i.pinimg.com/originals/40/3a/56/403a56ca7df35d58879641a935c01a51.gif)
-## Exemple de liste imbriquée
+## 3 les listes
 1. Titre 1
 2. Titre 2
 3. Titre 3
     * Titre 3.1
     * Titre 3.2
     * Titre 3.3
-## Exemple de coloration syntaxique de code html
+## 4 Syntaxe de code
 ```html
 <body>
     <div>
