@@ -8,7 +8,7 @@ As you can see on <https://daringfireball.net/projects/markdown/>, Markdown is a
 
 Markdown allow you to :
 
-    - Modify the style of a paragraph
-    - Build a beautiful table
-    - Show your most magnificient pitcure
-    - ...
+- Modify the style of a paragraph
+- Build a beautiful table
+- Show your most magnificient pitcure
+- ...
