@@ -12,3 +12,5 @@ Markdown allow you to :
 - Build a beautiful table
 - Show your most magnificient pitcure
 - ...
+
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
