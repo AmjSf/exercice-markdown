@@ -14,7 +14,7 @@ Markdown allow you to :
 - Show your most magnificient pitcure
 - ...
 
-Even things like this can be done thanks to the great Markdown
+<p align="center">Even things like this can be done thanks to the great Markdown</p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" alt="It's Catgic"/>
