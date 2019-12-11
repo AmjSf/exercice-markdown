@@ -1,11 +1,11 @@
 ## 2 Les images
  
-Des images peuvent être ajoutées de la manière suivante
+Des images peuvent être ajoutées de la avec la syntaxe ci-dessous
 ```md
 ![alt text](adresse-de-l'image)
 ```
 Exemple d'image :
-![alt text](https://www.ipnoze.com/wordpress/wp-content/uploads/2015/10/chien-drole.jpg)
+![alt text](https://static.fjcdn.com/pictures/1337_f4a5ef_674275.jpg)
 ## 2 2 Les images animées
 Les images animées sont également disponible. La syntaxe est la même que pour une image simple
  
