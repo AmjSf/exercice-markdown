@@ -1,4 +1,3 @@
-<style> Mk {color: orange;}</style>
 
 # What's a Markdown
 
@@ -6,16 +5,16 @@
 
 ## Introduction
 
-As you can see on <https://daringfireball.net/projects/markdown/>, <Mk>Markdown</Mk> is a way to style text on the web. 
+As you can see on <https://daringfireball.net/projects/markdown/>, Markdown is a way to style text on the web. 
 
-<Mk>Markdown</Mk> allow you to :
+Markdown allow you to :
 
 - Modify the style of a paragraph
 - Build a beautiful table
 - Show your most magnificient pitcure
 - ...
 
-Even things like this can be done thanks to the great <Mk>Markdown</Mk>
+Even things like this can be done thanks to the great Markdown
 
 <p align="center">
   <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" alt="It's Catgic"/>
