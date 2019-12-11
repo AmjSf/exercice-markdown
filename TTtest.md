@@ -1,5 +1,5 @@
 
-# What's a Markdown
+<h1 align="center"># What's a Markdown</h1>
 
 ![c'était sensé être une image](/CeciEstUneImage.jpg "Une jolie image")
 
