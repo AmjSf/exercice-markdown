@@ -24,7 +24,7 @@ Markdown allow you to :
 ![c'était sensé être une image](http://ekladata.com/6H_WwXgxF_wj0TvkgMOTQcFMkXA.jpg "Sweet coffee")
 
 
-<p style='color:green; background-color:yellow; text-align:center'>
+<p style="color:green; background-color:yellow; text-align:center">
 Paragraphe <br>
 vert,<br>
 attention aux 
