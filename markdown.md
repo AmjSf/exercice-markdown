@@ -1,11 +1,7 @@
-# What's a Markdown
-test
-Test Hugo est un mec qui taff dur <span style="color:blue">some *blue* text</span>
-# 
-#### jjf
-* jdjdj
-** jeje
-```python
-s = "Python syntax highlighting"
-print s
-```
+# What is a Markdown
+Markdown is a way to style text on the web. You control the display of the document; formatting words as bold or italic, adding images, and creating lists are just a few of the things we can do with Markdown. Mostly, Markdown is just regular text with a few non-alphabetic characters thrown in, like
+
+You can use Markdown most places around GitHub:
+*Gists
+*Comments in Issues and Pull Requests
+*Files with the .md or .markdown extension
