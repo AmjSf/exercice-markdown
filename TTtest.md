@@ -24,3 +24,4 @@ Markdown allow you to :
 ![c'était sensé être une image](http://ekladata.com/6H_WwXgxF_wj0TvkgMOTQcFMkXA.jpg "Sweet coffee")
 
 <p>Some Markdown text with <span style="color:blue">some <em>blue</em> text</span>.</p>
+m
