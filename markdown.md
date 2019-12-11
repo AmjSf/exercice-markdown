@@ -14,11 +14,14 @@ How does it work?
 Mostly, Markdown is just regular text with a few non-alphabetic characters thrown in, like # or *.
 
 ### Why would you use it? 
- maybe not
-1. List
-2. Chat
-3. fufufu
 
-* Bonjour
-* Tu es bete
-* Je crois
+1. Faster
+* better
+2. Easier
+* stronger
+3. Efficient 
+* or not
+
+* Formater la présentation du document
+* Synthaxe plus compréhensible
+* Why not?  
