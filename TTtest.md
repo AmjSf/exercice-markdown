@@ -13,4 +13,6 @@ Markdown allow you to :
 - Show your most magnificient pitcure
 - ...
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+Even things like this can be done thanks to the great Markdown 
+
+<center> ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif) <center>
