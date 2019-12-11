@@ -34,8 +34,10 @@ Why would you use it?
 
 **Some code** 
 
+``` javascript
 <script type="text/javascript">
     alert("Hello!");
 </script>
+```
 
 ![GitHub Logo](https://files.digitaltrends.com/images/tenor.gif)
