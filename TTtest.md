@@ -15,8 +15,6 @@ Markdown allow you to :
 
 Even things like this can be done thanks to the great Markdown 
 
-<center> ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif) <center>
-
 <p align="center">
   <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" alt="It's Catgic"/>
 </p>
