@@ -1,8 +1,8 @@
-'<style>
+``<style>
     Mk {
         color: orange;
     }
-</style>'
+</style>``
 
 # What's a Markdown
 
