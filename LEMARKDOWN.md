@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> e62a20752ee2540f17e1d3d16abb0f961d23588d
+
 # Le Markdown
 ## Qu'est ce que le markdown ?
 Le Markdown est un langage de balisage inventÃ© par John Gruber en 2004 permettant de formater du texte brut de maniÃ¨re simple pour un rendu en HTML ou dans un autre format.</br>
@@ -19,23 +15,4 @@ Le Markdown est utilisÃ© dans plusieurs applications, soit sous la forme d'un Ã©
 2. [Les images](#2-Les-images)
     * [Les images animÃ©es](#2-2-Les-images-animÃ©es)
 3. [Les listes](#3-Les-listes)
-<<<<<<< HEAD
-4. [Syntaxe de code](#4-Syntaxe-de-code) 
-=======
-=======
->>>>>>> Soufiane
-## 1 Les liens
-Des lien peuvent être ajoutés de la manière suivane
-```md
-[Le nom du lien](lien)
-```
-Exemple de lien vers le répertoir principale
-<<<<<<< HEAD
-[je suis un lien vers le repository](https://github.com/AmjSf/exercice-markdown/tree/master)
->>>>>>> Soufiane
-=======
-[je suis un lien vers le repository](https://github.com/AmjSf/exercice-markdown/tree/master) .
->>>>>>> Soufiane
-=======
-4. [Syntaxe de code](#4-Syntaxe-de-code)
->>>>>>> e62a20752ee2540f17e1d3d16abb0f961d23588d
+
