@@ -45,5 +45,5 @@ Why would you use it?
 </p>
 
 
-[je suis un lien vers le repository](https://github.com/AmjSf/exercice-markdown/tree/master)
+[Link to Repo ](https://github.com/AmjSf/exercice-markdown/tree/master)
 
