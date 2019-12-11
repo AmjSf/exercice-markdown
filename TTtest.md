@@ -19,4 +19,5 @@ Even things like this can be done thanks to the great Markdown
   <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" alt="It's Catgic"/>
 </p>
 
-## What else ?  ![c'était sensé être une image] (http://ekladata.com/6H_WwXgxF_wj0TvkgMOTQcFMkXA.jpg "Sweet coffee"
+## What else ?  
+![c'était sensé être une image] (http://ekladata.com/6H_WwXgxF_wj0TvkgMOTQcFMkXA.jpg "Sweet coffee"
