@@ -1,10 +1,14 @@
 # Le markdown
 ## Qu'est ce que le markdown ?
-le markdown permet d'afficher du html plus facilement</br>
+Le Markdown est un langage de balisage inventé par John Gruber en 2004 permettant de formater du texte brut de manière simple pour un rendu en HTML ou dans un autre format.</br>
+
+Contrairement au langage HTML reposant sur l'usage de balises, le Markdown a pour but de permettre une meilleure écriture et une plus grande lisibilité du contenu, le tout offrant un moyen de conversion plus simple.</br>
+
+Le Markdown est utilisé dans plusieurs applications, soit sous la forme d'un éditeur de texte compatible, soit directement sur Internet. Certains services de blogs ou de réseaux sociaux souhaitant offrir une option de mise en forme des publications un peu plus riche reposent sur ce langage, c'est le cas par exemple de Google+.
 ## Exemple de liste à puces
-- numero 1</br>
-- numero 2</br>
-- numero 3</br>
+- élément de liste 1</br>
+- élément de liste 2</br>
+- élément de liste 3</br>
 ## Exemple de liste numérotées
 1. élément de liste 1
 2. élément de liste 2
