@@ -18,6 +18,8 @@ Even things like this can be done thanks to the great <span style='color:red'>Ma
 <p align="center">
   <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" alt="It's Catgic"/>
 </p>
+
 <span style='color:green; font-size:8px; border:1px outset black'>Petit vert</span>
+
 ## What else ?  
 ![c'était sensé être une image](http://ekladata.com/6H_WwXgxF_wj0TvkgMOTQcFMkXA.jpg "Sweet coffee")
