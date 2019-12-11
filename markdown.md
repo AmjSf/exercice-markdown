@@ -9,13 +9,17 @@ Le Markdown est utilisé dans plusieurs applications, soit sous la forme d'un é
 - Pouvoir créer facilement des éléments
 - Ajouter simplement une mise en forme de text
 - Avoir un mise en page rapidement
-## Les diiférents éléments
+## Les diférents éléments
 1. [Les liens](#1-Les-liens)
 2. [Les images](#2-Les-images)
     * [Les images animées](#2-2-Les-images-animées)
 3. [Les listes](#3-Les-listes)
 4. [Syntaxe de code](#4-Syntaxe-de-code)
 ## 1 Les liens
+Des lien peuvent être ajouter de la manière suivane
+```md
+[Le nom du lien](lien)
+```
 [je suis un lien vers le repository](https://github.com/AmjSf/exercice-markdown/tree/master)
 ## 2 Les images
 ![alt text](https://www.ipnoze.com/wordpress/wp-content/uploads/2015/10/chien-drole.jpg)
