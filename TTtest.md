@@ -4,7 +4,7 @@
 
 ## Introduction
 
-color:red As you can see on <https://daringfireball.net/projects/markdown/>, Markdown is a way to style text on the web. 
+As you can see on <https://daringfireball.net/projects/markdown/>, <span style='color:red'>Markdown</span> is a way to style text on the web. 
 
 Markdown allow you to :
 
@@ -13,7 +13,7 @@ Markdown allow you to :
 - Show your most magnificient pitcure
 - ...
 
-Even things like this can be done thanks to the great Markdown 
+Even things like this can be done thanks to the great <span style='color:red'>Markdown</span> 
 
 <p align="center">
   <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" alt="It's Catgic"/>
