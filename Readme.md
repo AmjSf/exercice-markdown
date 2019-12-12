@@ -2,7 +2,7 @@
 * Joffrey [Github](https://github.com/jSUNSH1NEw)
 * Soufiane [Github](https://github.com/AmjSf)
 * Hugo [Github](https://github.com/HugoBricoult)
-* Timothy[Github](https://github.com/TimothyTedaldi)
+* Timothy [Github](https://github.com/TimothyTedaldi)
     
    ## Qu'est ce que le markdown ?
    Le Markdown est un language de balisage, qui, en 2 mots, permet de formater du texte brut de manière simple pour un rendu en HTML      &/ou dans un autre format.</br>
