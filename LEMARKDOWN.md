@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Le Markdown
 ## Qu'est ce que le markdown ?
@@ -23,3 +24,18 @@ Des lien peuvent être ajoutés de la manière suivane
 Exemple de lien vers le répertoir principale
 [je suis un lien vers le repository](https://github.com/AmjSf/exercice-markdown/tree/master)
 
+=======
+## 2 Les images
+ 
+Des images peuvent être ajoutées de la avec la syntaxe ci-dessous
+```md
+![alt text](adresse-de-l'image)
+```
+Exemple d'image :
+![alt text](https://i.imgflip.com/1o2mwv.jpg)
+## 2 2 Les images animées
+Les images animées sont également disponible. La syntaxe est la même que pour une image simple
+ 
+Exemple d'image animée :
+![alt text](https://i.pinimg.com/originals/40/3a/56/403a56ca7df35d58879641a935c01a51.gif)
+>>>>>>> b7be6a40cc519ed6e3c3b7160ba37deaaf82ddc8
