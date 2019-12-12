@@ -18,7 +18,7 @@
    - Hugo : Introduction et table des matières
    - Soufiane : Création du répo et s'est occupé de la première partie : les liens
    - Joffrey : Les images classique ainsi que celles animée
-   - Timothy : Les listes et rédaction du  avec la collaboration de Joffrey
+   - Timothy : Les listes et rédaction du readme avec la collaboration de Joffrey
    - Lena : Les synthaxes de codes
    
    ## A quoi ça ressemble ?
@@ -31,7 +31,7 @@
    Ce projet contient des exemples de présentation de Markdown 
       
    ## Comment le telecharger ?
-   En cliquant sur clone ou download sur notre repository     
+   En cliquant sur clone ou download sur notre [repos](https://github.com/AmjSf/exercice-markdown)
    
    ## D'où vient le projet ?
    Projet becode sur le Markdown
