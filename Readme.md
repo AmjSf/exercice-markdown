@@ -2,5 +2,5 @@ Team:
 Lena
 Hugo
 Joffrey
-Thimoty
-
+Timothy
+Soufiane
