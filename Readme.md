@@ -13,7 +13,7 @@
    ## Que faisais chaque membre ?
    Nous avons tous consacré les première heures de ce projet à la documentation de git/github ainsi que du language Markdown.
    Nous nous sommes attribués chacun une partie de ce projet afin d'augmenter notre éfficacité (joke) et ce en utilisant github.          Passant par un repository git pour déposer nos futures modifications, nous avons créé des branches attitrées pour chacun, afin de      pouvoir se correler pour la modification finale.
-   Notre attribution du travail était :
+   Notre attribution du travail était
    
    - Hugo : Introduction et table des matières
    - Soufiane : Création du répo et s'est occupé de la première partie : les liens
