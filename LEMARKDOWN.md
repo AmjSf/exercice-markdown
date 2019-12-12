@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 # Le Markdown
 ## Qu'est ce que le markdown ?
 Le Markdown est un langage de balisage inventé par John Gruber en 2004 permettant de formater du texte brut de manière simple pour un rendu en HTML ou dans un autre format.</br>
@@ -24,7 +22,6 @@ Des lien peuvent être ajoutés de la manière suivane
 Exemple de lien vers le répertoir principale
 [je suis un lien vers le repository](https://github.com/AmjSf/exercice-markdown/tree/master)
 
-=======
 ## 2 Les images
  
 Des images peuvent être ajoutées de la avec la syntaxe ci-dessous
@@ -38,4 +35,24 @@ Les images animées sont également disponible. La syntaxe est la même que pour
  
 Exemple d'image animée :
 ![alt text](https://i.pinimg.com/originals/40/3a/56/403a56ca7df35d58879641a935c01a51.gif)
->>>>>>> b7be6a40cc519ed6e3c3b7160ba37deaaf82ddc8
+
+## 3 Les listes
+ 
+Pour créer une liste (numérotée ou à puces) il faut procèder comme suit :
+```md
+1. Titre 1
+2. Titre 2
+3. Titre 3
+    * Titre 3.1
+    * Titre 3.2
+    * Titre 3.3
+```
+ 
+ce qui donne :
+ 
+1. Titre 1
+2. Titre 2
+3. Titre 3
+    * Titre 3.1
+    * Titre 3.2
+    * Titre 3.3
