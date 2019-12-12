@@ -15,8 +15,6 @@ Le Markdown est utilisé dans plusieurs applications, soit sous la forme d'un é
 2. [Les images](#2-Les-images)
     * [Les images animées](#2-2-Les-images-animées)
 3. [Les listes](#3-Les-listes)
-<<<<<<< HEAD
-=======
 ## 1 Les liens
 Des lien peuvent être ajoutés de la manière suivane
 ```md
@@ -24,5 +22,4 @@ Des lien peuvent être ajoutés de la manière suivane
 ```
 Exemple de lien vers le répertoir principale
 [je suis un lien vers le repository](https://github.com/AmjSf/exercice-markdown/tree/master)
->>>>>>> Soufiane
 
